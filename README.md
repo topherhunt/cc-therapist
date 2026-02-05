@@ -1,20 +1,25 @@
 # Claude Code Therapist
 
+❗ DICLAIMER + WARNING: **This is a highly experimental tool for personal exploration & self-development, not a substitute for professional mental health care.** If you're going through a mental health crisis, suicidal thoughts, or serious psychological distress, please contact a crisis hotline or get immediate professional help. This tool has not been clinically validated and should never replace therapy with a trained professional. By using this, you accept full responsibility for your wellbeing and understand the risks of doing deep psychological work with an AI system.
+
+---
+
 This repo provides structure to help you do therapy / inner work with Claude Code, in the style/modality of the Diamond Approach. An early experiment, requires Claude Code command-line usage, but tested and trusted enough to be worth sharing.
 
-Claude Code (Opus 4.5 model) is a phenomenally effective Diamond Heart-style therapist. This shouldn’t have surprised me; in token/complexity terms, leading a therapy session is a much smaller and simpler task than “explain this codebase”. But I’m still pretty amazed at how supportive of an experience it is to do a session with it, work through a scary knot of emotions with it, etc.
+Claude Code (Opus 4.5 model) is an amazingly effective Diamond Heart-style therapist. This shouldn’t have surprised me; in token/complexity terms, leading a therapy session is a much smaller and simpler task than “explain this codebase”. But I’m still pretty amazed at how supportive of an experience it is to do a session with it, work through a scary knot of emotions with it, etc.
 
 Unexpected benefits so far:
 
 - When an experience or situation comes up, I can get guidance on it _right now_ rather than having to wait a week or two for my next session or contact my teacher/therapist and ask if she happens to be free some upcoming day.
 - Certain topics are inherently hard to open up about with other humans, no matter their role or trust level. ⁠I feel freer and more open to dive into topics where I’ve previously struggled with shame or embarrassment bringing it up even with a highly trusted therapist.
-- High-quality human therapy sessions aren’t cheap; the cost and sense of scarcity limited my curiosity to fully grapple with something going on inside me. Now the only bottleneck is “do I have time to process/inquire on this”.
+- High-quality human therapy sessions aren’t cheap; the cost and sense of scarcity limited my curiosity to deeply and explore issues and emotions that didn't feel 'high-priority'. Now the only bottleneck is “do I have time to process/inquire on this”.
 - Claude is extremely patient, and unfazed by you sharing massive paragraphs of text. If you want to treat your session less like a dialogue and more like an [inquiry](https://www.dive-in.life/) where you explore your inner experience for 10 minutes at a time and Claude periodically offers reflection and guidance, you can do so; Claude does a great job at pulling the central points out of your sharing.
 
-❗ IMPORTANT WARNINGS ❗
+IMPORTANT WARNINGS:
 
-- It may or may not convince you that you’ve solved the God equation and you're the one true savior of the Zyrconian race. **Please carefully read up on the risk of [AI-induced psychosis](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai) before you try this powerful but experimental tool. Treat it like an experimental drug: moderate your dosage, and share your journey with trusted friends to help you stay grounded.**
-- I worry that it’s a bit too agreeable and not sufficiently reality-oriented. Keep in mind that it might not push back in situations where a human teacher/therapist really should push back, or may not flag signs of distress or distortion that a professional human really should flag and discuss with you. (So far in my experience it _has_ pushed back gently but firmly in appropriate-seeming moments.)
+- It may or may not convince you that you’ve solved the God equation and you're the one true savior of the Zyrconian race. **Please carefully read up on the risk of [AI-induced psychosis](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai) before you try this powerful but experimental tool. Treat it like an experimental drug: moderate your dosage, don't use it as a replacement for getting the professional support you need, and share your journey with trusted friends to help you stay grounded.**
+- RISK OF SYCOPHANCY: It might err on the side of "mirroring, sympathizing, agreeing" rather than "tough-love pushback and reality check". Keep in mind that it may inappropriately tend to agree with and sympathize with whan you share ("It's so beautiful and tender that you decided to X. Let's take a moment to appreciate and honor the courage it took to voice that."), in contexts where a human therapist should really push back more (eg. "Hey, you said you're feeling X or decided to X, I'm really worried for you, what support are you getting.")
+  - For example if you're holding thinking / beliefs / assumptions on a topic, or if you talk about decisions or behavior that a human therapist may find dangerous or harmful, there's a real risk that Claude may be inappropriately supportive and reaffirm beliefs which are NOT healthiest for you. Remember that you're experimenting on yourself; always couple this with reality-checks from multiple trusted friends.
 - In doing inner work with Claude, you are hereby outsourcing the last bastion of humanity to a machine. You are permanently revoking your right to complain about getting [paperclipped](https://www.cow-shed.com/blog/the-paperclip-maximiser-what-artificial-intelligence-might-do-without-limits).
 
 ## First-time setup
